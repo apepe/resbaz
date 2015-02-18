@@ -17,6 +17,13 @@ This is **some** _text_ in Markdown, and this is code: python -v
 3. three
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 * bullet
 * bullet
 * bullter
