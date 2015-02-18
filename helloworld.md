@@ -1,0 +1,1 @@
+Hello this is a new _kind of editor_ for **research**.
