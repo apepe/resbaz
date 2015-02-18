@@ -3,3 +3,5 @@ _Oh, an empty article!_ You can get started by **double clicking** this text blo
 Who wrote this?
 
 This is a famous equation \(e=mc^2\)
+
+\[s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N\]
