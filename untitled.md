@@ -6,6 +6,8 @@ This is **some** _text_ in Markdown, and this is code: python -v
 
      this is code
 
+```this is also code```
+
 
 Blah blah \cite{Bedini_2009}
 
