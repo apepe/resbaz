@@ -8,6 +8,19 @@ This is **some** _text_ in Markdown, and this is code: python -v
 
 ```this is also code```
 
+[This is a link](http://authorea.com)
+
+>THis is a quote by famous guy
+
+1. one
+2. two
+3. three
+
+
+* bullet
+* bullet
+* bullter
+
 
 Blah blah \cite{Bedini_2009}
 
