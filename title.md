@@ -1,1 +1,1 @@
-resbaz urban planning
+Urban planning curriculum
