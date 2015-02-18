@@ -4,4 +4,4 @@ Who wrote this?
 
 This is a famous equation \(e=mc^2\)
 
-\[ s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N \]
+\( s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N } \)
